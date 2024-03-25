@@ -1,0 +1,16 @@
+form {
+  border: 1px solid #545454;
+  border-radius: 10px;
+  padding: 40px;
+  background-color: steelblue;
+  input {
+    padding: 5px 20px;
+    width: 100%;
+    line-height: 16px;
+    margin: 10px 0;
+  }
+  input[type="submit" i] {
+    cursor: pointer;
+    background-color: aqua;
+  }
+}
